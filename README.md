@@ -1,2 +1,2 @@
-# Calender-Project-with-C
+# C-Project
 C project
